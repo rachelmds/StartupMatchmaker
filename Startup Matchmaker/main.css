@@ -5,10 +5,7 @@
 }
 
 html { 
-  background: url(assets/coworking.jpg) no-repeat center center; 
-  -webkit-background-size: cover;
- -moz-background-size: cover;
-  -o-background-size: cover;
+  background: url(assets/coworking.jpg) no-repeat center; 
   background-size: cover;
 } 
 
